@@ -4,3 +4,40 @@
   grid-template-columns: repeat(3, 1fr);
   grid-gap: 2rem;
 }
+.cat-cart-content h4 {
+  color: orangered;
+}
+.image {
+  transition: all 0.3s ease-in-out;
+  cursor: pointer;
+}
+.image:hover {
+  transform: translateY(-8px);
+}
+.grid {
+  background-color: lightblue;
+  padding: 40px 0;
+}
+
+.grid-container {
+  margin: 10px 30px;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 1rem;
+}
+.grid-1 {
+  grid-column: span 2;
+  background-color: #ecdec2;
+}
+
+.grid-2 {
+  background-color: #abe4ab;
+}
+
+.grid-3 {
+  background-color: #adf1ed;
+}
+
+.blog-title {
+  font-size: 1.5rem;
+}
