@@ -1,0 +1,28 @@
+body h3 {
+  font-size: 2rem;
+  color: rgb(253, 253, 11);
+}
+.items {
+  list-style: none;
+  margin-right: 30px;
+  font-size: 22px;
+  font-weight: 500;
+  color: black;
+  cursor: pointer;
+  padding: 5px;
+  text-decoration: none;
+}
+.items:hover {
+  color: rgb(253, 253, 11);
+}
+.logo-text {
+  cursor: pointer;
+  color: blue;
+  padding-top: 10px;
+}
+.logo-text a {
+  text-decoration: none;
+}
+.MenuBar-container {
+  background-color: rgba(17, 199, 123, 0.89);
+}

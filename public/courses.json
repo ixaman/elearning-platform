@@ -1,0 +1,56 @@
+[
+  {
+    "c_id": "C01",
+    "name": "Graphics design",
+    "price": 5000,
+    "image": "https://img.freepik.com/free-vector/cartoon-graphic-design-landing-page_52683-70881.jpg?w=1380&t=st=1648549181~exp=1648549781~hmac=50462721037e7d3bc80707421dbc5fb824f25201935b8f1f70e6d6aa4533b1f7"
+  },
+  {
+    "c_id": "C02",
+    "name": "Search Engine Optimization (SEO)",
+    "price": 4000,
+    "image": "https://img.freepik.com/free-vector/seo-optimization_24908-55896.jpg?w=996&t=st=1648549222~exp=1648549822~hmac=48da10d8a8c8975dd6472f9e472f2869990f6f1ab1680b63e6980f99e116631f"
+  },
+  {
+    "c_id": "C03",
+    "name": "Javascript Developer",
+    "price": 8000,
+    "image": "https://img.freepik.com/free-vector/programmers-using-javascript-programming-language-computer-tiny-people-javascript-language-javascript-engine-js-web-development-concept_335657-2412.jpg?w=1060&t=st=1648549242~exp=1648549842~hmac=40f2ac1b8967dee7fe7fdb080d4a52ea233b1d5b9de9502cd03f05dffa9581ba"
+  },
+  {
+    "c_id": "C04",
+    "name": "Python Developer",
+    "price": 11000,
+    "image": "https://365datascience.com/resources/blog/2019-10-python-everything-you-should-know-1024x576.jpg"
+  },
+  {
+    "c_id": "C05",
+    "name": "Mobile App Development",
+    "price": 7000,
+    "image": "https://img.freepik.com/free-vector/app-development-banner_33099-1720.jpg?w=1060&t=st=1648549264~exp=1648549864~hmac=89da76c0f1a18dfdf3d912cf75ca601c6e9e3a6593a36f91a01a178d26ba2c60"
+  },
+  {
+    "c_id": "C06",
+    "name": "Database Management",
+    "price": 3000,
+    "image": "https://img.freepik.com/free-vector/set-server-room-element-isometric-big-data-processing-data-center-database-concept_39422-909.jpg?w=1060&t=st=1648549272~exp=1648549872~hmac=4c92d9cf578b48471dfa008d292602a873601d0c7595a93035ccc38f3eeb27b4"
+  },
+  {
+    "c_id": "C07",
+    "name": "Artificial Intelligence",
+    "price": 14000,
+    "image": "https://img.freepik.com/free-vector/futuristic-ai-technology-template-vector-disruptive-technology-blog-banner_53876-112231.jpg?w=1380&t=st=1648549279~exp=1648549879~hmac=31ad0c7b41ea16b161fc78629b8b03267535f871706d6278b6da30ff0b09a9be"
+  },
+  {
+    "c_id": "C08",
+    "name": "Motion Graphics",
+    "price": 9000,
+    "image": "https://img.freepik.com/free-vector/flat-illustrated-motion-graphics-landing-page_23-2148887106.jpg?w=1060&t=st=1648549286~exp=1648549886~hmac=1f76d7213fe320d25ffedc5d17cc4bc0e3a2129644b0b4c08df17ea67cf24dc1"
+  },
+  {
+    "c_id": "C09",
+    "name": "English Speaking",
+    "price": 3000,
+    "image": "https://img.freepik.com/free-psd/learn-english-sticky-notes-mock-up_23-2148471610.jpg?w=1380&t=st=1648549294~exp=1648549894~hmac=46315a28b7a7bcf994fda1e1431540587fbea2927ddf33f8d8e4c4733ee0cb2c"
+  }
+]

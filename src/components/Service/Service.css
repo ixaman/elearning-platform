@@ -1,0 +1,27 @@
+.cart .img-div img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+.cart {
+  box-shadow: rgba(0, 0, 0, 0.35) 5px 8px 15px;
+  background-color: #191d2b;
+  transition: all 0.3s ease-in-out;
+  cursor: pointer;
+}
+
+.cart:hover {
+  transform: translateY(-5px);
+}
+
+.cart-content {
+  padding: 1rem;
+}
+.details-div h4 {
+  color: yellow;
+}
+.details-div p {
+  margin-top: 10px;
+  font-size: 20px;
+  color: yellow;
+}
